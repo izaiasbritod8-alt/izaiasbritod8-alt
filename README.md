@@ -85,10 +85,6 @@ Tenho interesse em criar:
 
 ## 🧪 `PROJETOS`
 
-> `STATUS: BUILDING...`
-
-Aqui ficarão meus principais projetos.
-
 ### 🔷 `[ PROJETO 01 ]`
 
 ---
@@ -193,8 +189,6 @@ I enjoy creating:
 ## 🧪 `PROJECTS`
 
 > `STATUS: BUILDING...`
-
-This section will contain my main projects and experiments.
 
 ### 🔷 `[ PROJECT 01 ]`
 
