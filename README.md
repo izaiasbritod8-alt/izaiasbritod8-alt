@@ -1,32 +1,52 @@
-# 🔷 IZAIAS SANTOS DE BRITO
-
-### `Writer • Python Developer • Nerd • Rocker • Alternative Soul`
-
-> 🇧🇷 **Português acima • English below**
-> `Building worlds, writing stories & turning ideas into code.`
-
----
-
 <div align="center">
 
-### 🦇 「 SOBRE MIM 」 🦇
+# 🔷 IZAIAS SANTOS DE BRITO
 
-**18 anos • São Paulo, Brasil • Estudante**
+### `Writer • Python Developer • Nerd • Rocker`
 
-Escritor, alternativo e rockeiro, apaixonado por tecnologia e pela cultura nerd em todas as suas formas — de **super-heróis e animes a games, quadrinhos, ficção científica e fantasia**.
+🇧🇷 **São Paulo, Brazil** • 🎂 **18 years old** • 💻 **Student**
 
-Gosto de transformar ideias em histórias, projetos e códigos.
-Atualmente, meu principal foco na programação é **Python**, explorando cada vez mais o universo de dados e tecnologia.
+<br>
 
-**`CODE × STORIES × MUSIC × NERD CULTURE`**
+> **Code ideas. Write worlds. Create something worth remembering.**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=0D8BFF\&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧊 「 TECNOLOGIAS & FERRAMENTAS 」
+# 🇧🇷 PORTUGUÊS
 
-### 🐍 Principal
+## 🦇 `SOBRE MIM`
+
+Olá! Eu sou **Izaias Santos de Brito**, estudante de São Paulo, Brasil.
+
+Sou **escritor, alternativo, rockeiro e apaixonado por tecnologia e cultura nerd** como um todo — especialmente **super-heróis, animes, mangás, games, ficção científica, fantasia e horror**.
+
+Na programação, meu principal foco atualmente é **Python**, explorando também ferramentas relacionadas a dados e análise.
+
+Gosto de aprender coisas novas, transformar ideias em projetos e, principalmente, **criar**.
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║   ✍️  ESCRITOR                           ║
+║   🐍  PYTHON DEVELOPER                   ║
+║   🎸  ROCK & ALTERNATIVE CULTURE         ║
+║   👾  NERD CULTURE                       ║
+║   🦇  GOTHIC / CYBER AESTHETIC           ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+---
+
+## 🐍 `TECNOLOGIAS & FERRAMENTAS`
+
+### 💻 Principal
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
 
@@ -36,165 +56,105 @@ Atualmente, meu principal foco na programação é **Python**, explorando cada v
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 
-### 📁 Outros
+### 📁 Dados & Produtividade
 
 ![CSV](https://img.shields.io/badge/CSV-0D1117?style=for-the-badge\&logo=files\&logoColor=4FC3F7)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge\&logo=microsoftexcel\&logoColor=217346)
 
 ---
 
-# 💻 「 TECHNICAL SIDE 」
+## ✍️ `LADO CRIATIVO`
 
-```python
-class Izaias:
+Além da programação, a **escrita** é uma das minhas principais formas de expressão.
 
-    name = "Izaias Santos de Brito"
-    age = 18
-    location = "São Paulo, Brazil"
-    occupation = "Student"
+Tenho interesse em criar:
 
-    interests = [
-        "Programming",
-        "Data",
-        "Writing",
-        "Technology",
-        "Nerd Culture",
-        "Music"
-    ]
-
-    main_language = "Python"
-
-    tools = [
-        "Pandas",
-        "Jupyter",
-        "SQL",
-        "CSV",
-        "Excel"
-    ]
-
-    mindset = "Learn → Create → Experiment → Repeat"
-```
-
----
-
-# ✍️ 「 CREATIVE SIDE 」
-
-> **“Every line of code can solve a problem.
-> Every story can create a world.”**
-
-Além da programação, também sou **escritor**.
-
-Gosto de criar personagens, universos, conceitos e histórias, misturando referências de diferentes áreas da cultura nerd com ideias próprias.
-
-### 📚 Meus interesses criativos
-
-* ✍️ Escrita
-* 🦸 Super-heróis
-* 🗡️ Animes & Mangás
-* 🎮 Games
+* ✍️ Histórias
+* 🦸 Personagens
+* 🌌 Universos fictícios
+* 📖 Conceitos narrativos
 * 👾 Ficção científica
 * 🧙 Fantasia
-* 🦇 Horror & Gothic
-* 🎸 Rock & Alternative Culture
+* 🦇 Horror
+* 🎭 Cultura alternativa
+
+> **Programar é construir sistemas.
+> Escrever é construir mundos.**
 
 ---
 
-# 🧪 「 PROJECTS 」
+## 🧪 `PROJETOS`
 
-> 🚧 **This sector is under construction...**
+> `STATUS: BUILDING...`
 
-Aqui ficarão meus principais projetos, experimentos e ideias.
+Aqui ficarão meus principais projetos.
 
-### 🔷 Projeto 01
-
-`[https://github.com/izaiasbritod8-alt/Projeto-charada-da-esfinge ]`
+### 🔷 `[ PROJETO 01 ]`
 
 ---
 
-### 🟦 Projeto 02
-
-`[ ]`
-
+### 🟦 `[ PROJETO 02 ]`
 
 ---
 
-### 🟪 Projeto 03
-
-`[ ]`
-
----
-
-# 🖼️ 「 VISUAL ARCHIVE 」
-
-<div align="center">
-
-</div>
-
----
-
-# 📊 「 GITHUB STATS 」
+### 🟪 `[ PROJETO 03 ]`
 
 <!--
-
-    ![GitHub Stats](URL)
-
+╔══════════════════════════════════════════════╗
+║                                              ║
+╚══════════════════════════════════════════════╝
 -->
 
-<div align="center">
+---
 
-`[ GITHUB STATS ]`
-`[ TOP LANGUAGES ]`
-`[ CONTRIBUTION GRAPH ]`
+## 🖼️ `VISUAL ARCHIVE`
 
-</div>
+
+<p align="center">
+
+`[ ]`
+
+</p>
 
 ---
 
-# 🦇 「 CURRENTLY 」
+## 📊 `GITHUB STATUS`
+
+<p align="center">
+
+</p>
+
+---
+
+# 🇺🇸 ENGLISH
+
+## 🦇 `ABOUT ME`
+
+Hi! I'm **Izaias Santos de Brito**, a student from São Paulo, Brazil.
+
+I'm a **writer, alternative person, rock enthusiast and technology & nerd culture fan**.
+
+I'm passionate about nerd culture in general — especially **superheroes, anime, manga, games, science fiction, fantasy and horror**.
+
+In programming, my main focus is currently **Python**, while I'm also exploring tools related to data and analysis.
+
+I enjoy learning, experimenting and turning ideas into actual projects.
 
 ```text
-> Studying.................. [████████░░] 80%
-> Learning Python........... [███████░░░] 70%
-> Writing................... [████████░░] 80%
-> Building projects......... [██████░░░░] 60%
-> Creating universes........ [█████████░] 90%
-> Becoming an adult......... [ERROR: UNKNOWN]
+╔══════════════════════════════════════════╗
+║                                          ║
+║   ✍️  WRITER                             ║
+║   🐍  PYTHON DEVELOPER                   ║
+║   🎸  ROCK & ALTERNATIVE CULTURE         ║
+║   👾  NERD CULTURE                       ║
+║   🦇  GOTHIC / CYBER AESTHETIC           ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 
 ---
 
-# 🎸 「 PERSONAL CODE 」
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│       CODE YOUR IDEAS                │
-│       WRITE YOUR WORLDS              │
-│       QUESTION EVERYTHING            │
-│       KEEP CREATING                  │
-│                                      │
-└──────────────────────────────────────┘
-```
-
----
-
-# 🌐 「 ENGLISH VERSION 」
-
-## 🔷 ABOUT ME
-
-**18 years old • São Paulo, Brazil • Student**
-
-I'm a **writer, alternative person and rock enthusiast** with a strong passion for technology and nerd culture in all its forms — from **superheroes and anime to games, comics, science fiction and fantasy**.
-
-I enjoy turning ideas into stories, projects and code.
-
-My main focus in programming is currently **Python**, while I'm exploring data analysis and different technologies.
-
-**`CODE × STORIES × MUSIC × NERD CULTURE`**
-
----
-
-## 💻 TECH STACK
+## 💻 `TECH STACK`
 
 ### 🐍 Main Language
 
@@ -210,64 +170,77 @@ My main focus in programming is currently **Python**, while I'm exploring data a
 
 ---
 
-## ✍️ CREATIVE SIDE
+## ✍️ `CREATIVE SIDE`
 
-Writing is another major part of what I do.
+Writing is one of my main forms of creative expression.
 
-I enjoy creating **characters, fictional universes, concepts and stories**, combining different influences from nerd culture with original ideas.
+I enjoy creating:
 
-### Interests
-
-* ✍️ Writing
-* 🦸 Superheroes
-* 🗡️ Anime & Manga
-* 🎮 Games
-* 👾 Science Fiction
+* ✍️ Stories
+* 🦸 Characters
+* 🌌 Fictional universes
+* 📖 Narrative concepts
+* 👾 Science fiction
 * 🧙 Fantasy
-* 🦇 Horror & Gothic
-* 🎸 Rock & Alternative Culture
+* 🦇 Horror
+* 🎭 Alternative culture
+
+> **Programming builds systems.
+> Writing builds worlds.**
 
 ---
 
-## 🧪 PROJECTS
+## 🧪 `PROJECTS`
 
-> 🚧 **Currently building...**
+> `STATUS: BUILDING...`
 
-This section will contain my main projects, experiments and creations.
+This section will contain my main projects and experiments.
 
-### 🔷 Project 01
-
-`[https://github.com/izaiasbritod8-alt/Projeto-charada-da-esfinge]`
+### 🔷 `[ PROJECT 01 ]`
 
 ---
 
-### 🟦 Project 02
-
-`[ ]`
+### 🟦 `[ PROJECT 02 ]`
 
 ---
 
-### 🟪 Project 03
-
-`[ ]`
+### 🟪 `[ PROJECT 03 ]`
 
 ---
 
-# 🛰️ 「 CONTACT / LINKS 」
+## 🌐 `CONTACT & LINKS`
+
+<p align="center">
+
+<!--
+SUBSTITUA OS LINKS ABAIXO PELOS SEUS.
+
+Exemplo:
+
+<a href="SEU_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+-->
+
+`[ GITHUB ]`   `[ LINKEDIN ]`   `[ PORTFOLIO ]`
+
+</p>
+
+---
 
 <div align="center">
 
+# 🔵 `WELCOME TO MY DIGITAL DOMAIN`
 
-</div>
+### `CODE × STORIES × MUSIC × NERD CULTURE`
 
----
+<br>
 
-<div align="center">
+🦇 **Stay curious. Keep creating.**
 
-### 🔵 `WELCOME TO MY DIGITAL DOMAIN` 🔵
-
-**Made with Python, imagination, music and a suspicious amount of blue.**
+<br>
 
 `© 2026 Izaias Santos de Brito`
 
 </div>
+
