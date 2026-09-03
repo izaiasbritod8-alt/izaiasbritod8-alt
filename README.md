@@ -273,8 +273,12 @@ Exemplo:
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05MnFkdGZocGZhaDBpenlheWttZWk2YWw0anJnbHV0ZnB0cWJ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HxZ3prK9hIDsc/giphy.gif">
+ </div>
 
 # 🔵 `WELCOME TO MY DIGITAL DOMAIN`
+
+<div align>
 
 ### `CODE × STORIES × MUSIC × NERD CULTURE`
 
