@@ -1,5 +1,11 @@
-<div align="center">
 
+<div align="center">
+  <img src="https://pin.it/70XU5EyTJ" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 # 🔷 IZAIAS SANTOS DE BRITO
 
 ### `Writer • Python Developer • Nerd • Rocker`
