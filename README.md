@@ -114,10 +114,6 @@ Tenho interesse em criar:
   <img src="https://pin.it/37JymvYlj" width="300">
 </p>
 
-`[ ]`
-
-</p>
-
 ---
 
 ## 📊 `GITHUB STATUS`
