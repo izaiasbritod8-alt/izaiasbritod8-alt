@@ -109,29 +109,18 @@ Aqui ficarão meus principais projetos, experimentos e ideias.
 
 `[ ]`
 
-Descrição curta do projeto.
-
-**Tech:** `Python • Pandas • SQL`
-
 ---
 
 ### 🟦 Projeto 02
 
 `[ ]`
 
-Descrição curta do projeto.
-
-**Tech:** `Python • Jupyter`
 
 ---
 
 ### 🟪 Projeto 03
 
 `[ ]`
-
-Descrição curta do projeto.
-
-**Tech:** `Python • Excel • CSV`
 
 ---
 
@@ -248,9 +237,7 @@ This section will contain my main projects, experiments and creations.
 
 ### 🔷 Project 01
 
-`[ ]'
-
-**Tech:** `Python • Pandas • SQL`
+`[ ]`
 
 ---
 
@@ -267,10 +254,6 @@ Short description.
 ### 🟪 Project 03
 
 `[ ]`
-
-Short description.
-
-**Tech:** `Python • Excel • CSV`
 
 ---
 
