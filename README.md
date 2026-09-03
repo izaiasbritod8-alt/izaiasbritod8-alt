@@ -110,9 +110,9 @@ Tenho interesse em criar:
 ---
 
 ## 🖼️ `VISUAL ARCHIVE`
-
-
 <p align="center">
+  <img src="https://pin.it/37JymvYlj" width="300">
+</p>
 
 `[ ]`
 
