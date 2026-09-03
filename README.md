@@ -162,7 +162,7 @@ Tenho interesse em criar:
 
 ## 🖼️ `VISUAL ARCHIVE`
 <p align="center">
-  <img src="https://pin.it/37JymvYlj" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRrMmRzaHB5Z25vYTIyN25pdnUwNjF6cnl6bm1oemN2emlwZjZxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FAHuIHYUxDtm9B2EJr/giphy.gif" width="300">
 </p>
 ---
 
