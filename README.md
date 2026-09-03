@@ -12,7 +12,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=0D8BFF\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=izaiasbritod8-alt\&color=0D8BFF\&style=for-the-badge)
 
 </div>
 
