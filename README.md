@@ -166,8 +166,6 @@ Tenho interesse em criar:
 </p>
 ---
 
-## 📊 `GITHUB STATUS`
-
 <p align="center">
 
 </p>
