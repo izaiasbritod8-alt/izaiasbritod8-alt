@@ -245,10 +245,6 @@ This section will contain my main projects, experiments and creations.
 
 `[ ]`
 
-Short description.
-
-**Tech:** `Python • Jupyter`
-
 ---
 
 ### 🟪 Project 03
