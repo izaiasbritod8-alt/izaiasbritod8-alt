@@ -107,7 +107,7 @@ Aqui ficarão meus principais projetos, experimentos e ideias.
 
 ### 🔷 Projeto 01
 
-`[ ]`
+`[https://github.com/izaiasbritod8-alt/Projeto-charada-da-esfinge ]`
 
 ---
 
@@ -237,7 +237,7 @@ This section will contain my main projects, experiments and creations.
 
 ### 🔷 Project 01
 
-`[ ]`
+`[https://github.com/izaiasbritod8-alt/Projeto-charada-da-esfinge]`
 
 ---
 
