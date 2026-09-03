@@ -37,7 +37,7 @@ Gosto de aprender coisas novas, transformar ideias em projetos e, principalmente
 ║   🐍  PYTHON DEVELOPER                   ║
 ║   🎸  ROCK & ALTERNATIVE CULTURE         ║
 ║   👾  NERD CULTURE                       ║
-║   🦇  GOTHIC / CYBER AESTHETIC           ║
+║   🦇  GOTHIC / ALT AESTHETIC           ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
 ```
@@ -143,7 +143,7 @@ I enjoy learning, experimenting and turning ideas into actual projects.
 ║   🐍  PYTHON DEVELOPER                   ║
 ║   🎸  ROCK & ALTERNATIVE CULTURE         ║
 ║   👾  NERD CULTURE                       ║
-║   🦇  GOTHIC / CYBER AESTHETIC           ║
+║   🦇  GOTHIC / ALT AESTHETIC           ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
 ```
