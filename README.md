@@ -113,7 +113,6 @@ Tenho interesse em criar:
 <p align="center">
   <img src="https://pin.it/37JymvYlj" width="300">
 </p>
-
 ---
 
 ## 📊 `GITHUB STATUS`
