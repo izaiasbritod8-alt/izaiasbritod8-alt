@@ -127,7 +127,7 @@ Descrição curta do projeto.
 
 ### 🟪 Projeto 03
 
-`[ ADICIONE SEU PROJETO AQUI ]`
+`[ ]`
 
 Descrição curta do projeto.
 
@@ -137,26 +137,7 @@ Descrição curta do projeto.
 
 # 🖼️ 「 VISUAL ARCHIVE 」
 
-<!--
-    ADICIONE SUAS IMAGENS AQUI
-
-    Exemplo:
-
-    <div align="center">
-      <img src="LINK-DA-IMAGEM" width="400px">
-    </div>
-
-    Você também pode colocar GIFs, banners,
-    screenshots dos projetos ou artes próprias.
--->
-
 <div align="center">
-
-`[ YOUR IMAGE / BANNER HERE ]`
-
-`[ PROJECT SCREENSHOT HERE ]`
-
-`[ CREATIVE ART HERE ]`
 
 </div>
 
@@ -267,9 +248,7 @@ This section will contain my main projects, experiments and creations.
 
 ### 🔷 Project 01
 
-`[ ADD YOUR PROJECT HERE ]`
-
-Short description.
+`[ ]'
 
 **Tech:** `Python • Pandas • SQL`
 
@@ -277,7 +256,7 @@ Short description.
 
 ### 🟦 Project 02
 
-`[ ADD YOUR PROJECT HERE ]`
+`[ ]`
 
 Short description.
 
@@ -287,7 +266,7 @@ Short description.
 
 ### 🟪 Project 03
 
-`[ ADD YOUR PROJECT HERE ]`
+`[ ]`
 
 Short description.
 
@@ -299,7 +278,6 @@ Short description.
 
 <div align="center">
 
-`[ GITHUB ]` • `[ LINKEDIN ]` • `[ INSTAGRAM ]` • `[ PORTFOLIO ]`
 
 </div>
 
