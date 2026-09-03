@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-# 🔷 IZAIAS SANTOS DE BRITO
+# 🔷 ♱IZAIAS SANTOS DE BRITO♱
 
 ### `Writer • Python Developer • Nerd • Rocker`
 
